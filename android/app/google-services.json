@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832270754543",
+    "project_id": "mdpflutterproject",
+    "storage_bucket": "mdpflutterproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832270754543:android:3c3e8b65a6a61e3d0a311a",
+        "android_client_info": {
+          "package_name": "com.deepak.mdpflutterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832270754543-g40ti1fqcg7osmmat3k5vv08pj7qbdku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUeRRDhmmL9lZTSjEJSGHP9b1EyrdeiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832270754543-g40ti1fqcg7osmmat3k5vv08pj7qbdku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
